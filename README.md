@@ -14,7 +14,8 @@ To begin with, soil erosion is a natural process that happens all the time. But,
 - Deforestation
 - No crop rotation
 - Wrong hills crop placement  
-To prevent soil erosion, people should:
+
+### To prevent soil erosion, people should:
 * Use agroforestry. By doing this, wind will have less erosion impact on soil.
 * Plant crops in special patterns, so water runoff will be slowed down.
 * Use crop rotation. As a result, different crops will not have such destructive impact on soil.
