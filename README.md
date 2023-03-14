@@ -8,6 +8,9 @@ data_prep.ipynb - Discovering data with https://medium.datadriveninvestor.com/pr
 
 main.py - data loading and model training.
 
+## Model
+
+As far as, aim of model is to mark soil erosion places, I decided to use an autoencoder, that will produce a binary mask for given area pictures.
 
 # Conclusion
 To begin with, soil erosion is a natural process that happens all the time. But, development of agriultural techniques significantly speeded up this process. Most common reasons of soil erosion in Ukraine:
